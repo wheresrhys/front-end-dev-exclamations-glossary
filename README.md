@@ -1,4 +1,4 @@
-Front end developers verbal exclamations glossary
+Front end developers exclamations glossary
 ===================================
 
 A glossary of meanings for exclamations sometimes heard coming from the mouths of developers
