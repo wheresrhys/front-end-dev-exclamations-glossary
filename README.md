@@ -4,7 +4,7 @@ Front end developers exclamations glossary
 A glossary of meanings for exclamations sometimes heard coming from the mouths of developers
 
 * **Ooosh/Boink** *[v]*  
-Describes the experiences provided by fluid or jerky transitioms between breakpoints of a responsive layout
+Describes the experiences provided by fluid or jerky transitions between the breakpoints of a responsive layout
 
  > The consensus is it needs to be more *ooosh* than *boink*
 * **Frr-rr-rr-rr-rr** *[v]*  
